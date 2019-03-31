@@ -1,2 +1,4 @@
-# eeg-generative-model
-EGG data for sentiment analysis for generative modelling expressions
+# EEG Generative Model
+
+
+Collecting and classifying electroencephalography data for sentiment analysis and for generative modelling output
